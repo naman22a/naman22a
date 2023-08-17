@@ -31,21 +31,22 @@ const naman = {
     askMeAbout: ['web dev', 'tech', 'app dev'],
     technologies: {
         frontend: {
-            ts: ['Next JS', 'React', 'Typescript'],
+            ts: ['Next JS', 'React', 'Typescript', 'Svelte', 'Vue', 'Solid'],
             stateManagement: ['Zustand'],
-            dataFetching: ['React Query', 'Apollo'],
+            dataFetching: ['React Query', 'Apollo Client'],
             styling: [
                 'TailwindCSS',
                 'Headless UI',
                 'Chakra UI',
                 'Material UI',
+                'Mantine',
                 'Sass'
             ]
         },
         backEnd: {
             ts: ['Node', 'Nest JS', 'Express', 'REST API', 'GraphQL'],
             databases: ['PostgresSQL', 'MySQL', 'Redis', 'MongoDB'],
-            orm: ['Prisma', 'TypeORM']
+            orm: ['Prisma', 'TypeORM', 'Mikro ORM']
         }
     },
     currentFocus: 'Learning Data Structures and Algorithms',
