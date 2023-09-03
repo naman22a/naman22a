@@ -8,14 +8,16 @@
 |_| \_|\__,_|_| |_| |_|\__,_|_| |_| /_/   \_\_|  \___/|_|  \__,_|
 
 
- - 🔭 I'm currently working on maintaining [cstimer](https://github.com/namanArora1022/cstimer)!
+ - 🔭 I'm currently working on maintaining [dotfiles-hyprland](https://github.com/naman22a/dotfiles-hyprland)
  - 🌱 I'm currently learning TRPC, Supabase, Flutter and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 💬 Ask me about Typescript and GraphQL
  - 🐧 Btw i use Arch
  - 📫 How to reach me:
-      - [email](mailto:namanarora1022@gmail.com)
       - [website](https://namanarora.vercel.app)
+      - [linkedin](https://www.linkedin.com/in/naman22a)
+      - [twitter](https://twitter.com/naman_22a)
+      - [email](mailto:namanarora1022@gmail.com)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
 ```
