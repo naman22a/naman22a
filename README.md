@@ -8,8 +8,8 @@
 |_| \_|\__,_|_| |_| |_|\__,_|_| |_| /_/   \_\_|  \___/|_|  \__,_|
 
 
- - 🔭 I'm currently working on maintaining [dotfiles-hyprland](https://github.com/naman22a/dotfiles-hyprland)
- - 🌱 I'm currently learning TRPC, Supabase, Flutter and other cool stuff!
+ - 🔭 I'm currently working on maintaining [graphing-calculator](https://github.com/naman22a/graphing-calculator)
+ - 🌱 I'm currently learning Vector Fields, Fuild Flow, Machine Learning and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 💬 Ask me about Typescript and GraphQL
  - 🐧 Btw i use Arch
@@ -29,11 +29,11 @@
 ```typescript
 const naman = {
     pronouns: 'He' | 'Him',
-    code: ['Typescript', 'JavaScript', 'Python', 'C++', 'Dart'],
+    code: ['Typescript', 'JavaScript', 'Python', 'C++', 'C'],
     askMeAbout: ['web dev', 'tech', 'app dev'],
     technologies: {
         frontend: {
-            ts: ['Next JS', 'React', 'Typescript', 'Svelte', 'Vue', 'Solid'],
+            ts: ['Next JS', 'React', 'Typescript', 'Svelte', 'Solid'],
             stateManagement: ['Zustand'],
             dataFetching: ['React Query', 'Apollo Client'],
             styling: [
@@ -46,7 +46,7 @@ const naman = {
             ]
         },
         backEnd: {
-            ts: ['Node', 'Nest JS', 'Express', 'REST API', 'GraphQL'],
+            ts: ['Node', 'Nest JS', 'Express.js', 'REST API', 'GraphQL'],
             databases: ['PostgresSQL', 'MySQL', 'Redis', 'MongoDB'],
             orm: ['Prisma', 'TypeORM', 'Mikro ORM']
         }
