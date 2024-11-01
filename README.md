@@ -9,7 +9,7 @@
 
 
  - 🔭 I'm currently working on maintaining [graphing-calculator](https://github.com/naman22a/graphing-calculator)
- - 🌱 I'm currently learning Vector Fields, Fuild Flow, Machine Learning and other cool stuff!
+ - 🌱 I'm currently learning Vector Fields, Fuild Flow and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 💬 Ask me about Typescript and GraphQL
  - 🐧 Btw i use Arch
