@@ -14,7 +14,7 @@
  - 💬 Ask me about Typescript and GraphQL
  - 🐧 Btw i use Arch
  - 📫 How to reach me:
-      - [website](https://namanarora.vercel.app)
+      - [website](https://namanarora.xyz)
       - [linkedin](https://www.linkedin.com/in/naman22a)
       - [twitter](https://twitter.com/naman_22a)
       - [email](mailto:namanarora1022@gmail.com)
