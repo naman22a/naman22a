@@ -71,6 +71,8 @@ Most of my work revolves around **distributed systems, container orchestration, 
 
 ## 👨‍⚖️ Online Judge Platform
 
+<img src="https://raw.githubusercontent.com/naman22a/online-judge-platform/refs/heads/master/assets/architecture.png" alt="Architecture Diagram" height="150" width="300" />
+
 🔗 https://github.com/naman22a/online-judge-platform
 
 A **scalable LeetCode-style Online Judge** built using a **distributed microservices architecture**.
