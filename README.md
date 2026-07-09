@@ -86,6 +86,7 @@ React • TypeScript • NestJS • PostgreSQL • Redis • Docker • Kubernet
 - Designed a **7-service microservices architecture** behind an API Gateway.
 - Built a **secure code execution engine using Kubernetes Jobs** to run untrusted code in isolated containers.
 - Implemented **asynchronous submission processing using Redis + BullMQ workers**.
+- Sustained **500 concurrent virtual users** and **2,800+ requests/sec** during k6 load testing with **P95 latency of 206 ms**.
 - Added reliability mechanisms including **idempotent APIs, retry-safe execution, and dead-letter queues**.
 
 ---
@@ -102,9 +103,10 @@ Python • Kubernetes • AWS • LLM APIs • CLI
 
 **Key highlights**
 
-- Automatically detects issues like **CrashLoopBackOff and OOMKilled**.
+- Automatically detects issues like **CrashLoopBackOff** and **OOMKilled**.
 - Aggregates **pod logs, events, and restart metrics** for analysis.
-- Uses LLM-powered diagnostics to reduce investigation time **from ~20 minutes to <2 minutes**.
+- Reduced Kubernetes incident investigation time by **90% (20 min → <2 min)** using LLM-powered diagnostics.
+- Integrated **Amazon Bedrock, CloudWatch, DynamoDB, and SNS** for automated root-cause analysis.
 
 ---
 
