@@ -61,12 +61,6 @@ Most of my work revolves around **distributed systems, container orchestration, 
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naman22a&theme=tokyonight)
-
----
-
 # 🏗️ Featured Projects
 
 ## 👨‍⚖️ Online Judge Platform
