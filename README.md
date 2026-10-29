@@ -104,6 +104,8 @@ Python • Kubernetes • AWS • LLM APIs • CLI
 
 ## 🔵🟢 AWS Blue-Green Deployment
 
+<img src="https://raw.githubusercontent.com/naman22a/blue-green-deployment-on-aws/master/docs/images/01-architecture.png" alt="Architecture Diagram" height="150" width="300" />
+
 🔗 https://github.com/naman22a/blue-green-deployment-on-aws
 
 Zero-downtime deployments for an NGINX app on Amazon ECS, fully automated with Terraform and GitHub Actions. Push to master, and the new version is built, deployed alongside the old one, health-checked, and only then given live traffic. If validation fails, traffic never moves.
