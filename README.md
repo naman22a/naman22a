@@ -85,7 +85,7 @@ React • TypeScript • NestJS • PostgreSQL • Redis • Docker • Kubernet
 
 ---
 
-## ☸️ KubeSage — AI Kubernetes Debugging CLI
+## ☸️ KubeSage: AI Kubernetes Debugging CLI
 
 🔗 https://github.com/naman22a/kubesage
 
@@ -97,10 +97,26 @@ Python • Kubernetes • AWS • LLM APIs • CLI
 
 **Key highlights**
 
-- Automatically detects issues like **CrashLoopBackOff** and **OOMKilled**.
-- Aggregates **pod logs, events, and restart metrics** for analysis.
-- Reduced Kubernetes incident investigation time by **90% (20 min → <2 min)** using LLM-powered diagnostics.
-- Integrated **Amazon Bedrock, CloudWatch, DynamoDB, and SNS** for automated root-cause analysis.
+- Built an AI-powered CLI that analyzes Kubernetes pod logs, events and metrics to identify failures such as **CrashLoopBackOff** and **OOMKilled**.
+- Integrated **Amazon Bedrock** with **CloudWatch and DynamoDB** for root-cause analysis, **SNS** alerting and incident knowledge management
+
+---
+
+## 🔵🟢 AWS Blue-Green Deployment
+
+🔗 https://github.com/naman22a/blue-green-deployment-on-aws
+
+Zero-downtime deployments for an NGINX app on Amazon ECS, fully automated with Terraform and GitHub Actions. Push to master, and the new version is built, deployed alongside the old one, health-checked, and only then given live traffic. If validation fails, traffic never moves.
+
+**Tech Stack**
+
+Terraform • AWS ECS Fargate • Github Actions • ECR
+
+**Key highlights**
+
+- Provisioned 10+ AWS infrastructure resource configurations using **Terraform**, deploying dual **ECS Fargate** environments behind an **Application Load Balancer** for blue-green releases.
+- Automated the CI/CD pipeline with GitHub Actions and **AWS OIDC**, building and publishing Docker images to **ECR**, then deploying and smoke-testing releases before switching live traffic.
+- Implemented pre-cutover health validation, ECS deployment **circuit-breaker rollback**, manual production approval, and a rollback workflow; configured **3 CloudWatch alarms** for ALB 5xx errors and unhealthy targets.
 
 ---
 
