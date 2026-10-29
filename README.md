@@ -85,23 +85,6 @@ React • TypeScript • NestJS • PostgreSQL • Redis • Docker • Kubernet
 
 ---
 
-## ☸️ KubeSage: AI Kubernetes Debugging CLI
-
-🔗 https://github.com/naman22a/kubesage
-
-An **AI-powered Kubernetes debugging CLI** that analyzes cluster diagnostics and identifies root causes automatically.
-
-**Tech Stack**
-
-Python • Kubernetes • AWS • LLM APIs • CLI
-
-**Key highlights**
-
-- Built an AI-powered CLI that analyzes Kubernetes pod logs, events and metrics to identify failures such as **CrashLoopBackOff** and **OOMKilled**.
-- Integrated **Amazon Bedrock** with **CloudWatch and DynamoDB** for root-cause analysis, **SNS** alerting and incident knowledge management
-
----
-
 ## 🔵🟢 AWS Blue-Green Deployment
 
 <img src="https://raw.githubusercontent.com/naman22a/blue-green-deployment-on-aws/master/docs/images/01-architecture.png" alt="Architecture Diagram" height="150" width="300" />
